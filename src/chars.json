@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Sabin",
+    "img_url": "http://www.videogamesprites.net/FinalFantasy6/Party/Sabin/Sabin%20-%20Status.gif"
+  },
+  {
+    "name": "Terra",
+    "img_url": "http://www.videogamesprites.net/FinalFantasy6/Party/Terra/Terra%20-%20Status.gif"
+  },
+  {
+    "name": "Locke",
+    "img_url": "http://www.videogamesprites.net/FinalFantasy6/Party/Locke/Locke%20-%20Status.gif"
+  },
+  {
+    "name": "Celes",
+    "img_url": "http://www.videogamesprites.net/FinalFantasy6/Party/Celes/Celes%20-%20Status.gif"
+  },
+  {
+    "name": "Shadow",
+    "img_url": "http://www.videogamesprites.net/FinalFantasy6/Party/Shadow/Shadow%20-%20Status.gif"
+  },
+  {
+    "name": "Setzer",
+    "img_url": "http://www.videogamesprites.net/FinalFantasy6/Party/Setzer/Setzer%20-%20Status.gif"
+  },
+  {
+    "name": "Mog",
+    "img_url": "http://www.videogamesprites.net/FinalFantasy6/Party/Mog/Mog%20-%20Status.gif"
+  },
+  {
+    "name": "Ghost Train",
+    "img_url": "http://www.videogamesprites.net/FinalFantasy6/Bosses/07%20-%20Ghost%20Train.gif"
+  },
+  {
+    "name": "Kefka",
+    "img_url": "http://www.videogamesprites.net/FinalFantasy6/Bosses/09%20-%20Kefka.gif"
+  },
+  {
+    "name": "Ultros",
+    "img_url": "http://www.videogamesprites.net/FinalFantasy6/Bosses/11%20-%20Ultros.gif"
+  },
+  {
+    "name": "Imp",
+    "img_url": "http://www.videogamesprites.net/FinalFantasy6/Party/Imp/Imp%20-%20Status.gif"
+  },
+  {
+    "name": "Banon",
+    "img_url": "http://www.videogamesprites.net/FinalFantasy6/Party/Banon/Banon%20-%20Status.gif"
+  }
+]

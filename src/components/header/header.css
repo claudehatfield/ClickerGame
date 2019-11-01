@@ -1,14 +1,15 @@
 .bg {
   background: black;
-  background-image: linear-gradient(#2d9bec .1em, transparent .1em), linear-gradient(90deg,#2d9bec .1em, transparent .1em);
-  background-size: .618rem .618rem;
+  background-image: url("https://img.wallpapersafari.com/desktop/1600/900/69/4/tBTMHx.jpg");
+  background-size: 10px;
+  background-repeat: ;
 }
 
 .logo {
-  background: -webkit-linear-gradient(#fcb559, #fc5300);
+  background: -webkit-linear-gradient(#D3D3D3, #ffffff);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  font-size: 82px;
+  font-size: 70px;
 }
 
 .desc {

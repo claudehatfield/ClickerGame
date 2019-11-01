@@ -4,7 +4,7 @@ import './header.css';
 const Header = () => (
   <div className="container">
     <div className="jumbotron bg text-center">
-      <h1 className="logo">Click-Out!!</h1>
+      <h1 className="logo">Final Clicker VI</h1>
       <p className="desc">Click on a character to earn points, if you click the same character twice you lose!</p>
     </div>
   </div>
