@@ -7,7 +7,7 @@ const Nav = () => (
         <a className="navbar-brand" href="/">Final Clicker VI!!</a>
       </div>
       <ul className="nav navbar-nav">
-        <a href="https://github.com/claudehatfield">GitHub Repo</a>
+        <a href="https://github.com/claudehatfield/ClickerGamehttps://github.com/claudehatfield">GitHub Repo</a>
       </ul>
     </nav>
 );
